@@ -117,7 +117,8 @@ if __name__ == '__main__':
     visualize_top_words(result)
 
     # Для перевірки на умову виконання PEP8 рекомендую використати pycodestyle
-    # Приклад застосування "pycodestyle --show-source --show-pep8 exercise_10_mapreduce.py"
+    # Приклад застосування "pycodestyle --show-source --show-pep8 goit-cs-hw-051.py"
+
 
 
 
